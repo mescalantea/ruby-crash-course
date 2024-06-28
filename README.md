@@ -15,6 +15,15 @@ To run the scripts, type `bin/ruby` and the file name in your terminal:
 ./bin/ruby 01_print.rb
 ```
 
+## Interactive Ruby
+
+This repo provides a wrapper to run IRB. This tool allows you to start a playground to test your Ruby code directly at your terminal. Execute it this way:
+
+```bash
+./bin/irb
+```
+
+
 ## Visual Studio Code Extensions
 
 https://marketplace.visualstudio.com/items?itemName=iliazeus.vscode-ansi

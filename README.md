@@ -1,6 +1,8 @@
 # Ruby Programming Crash Course
 https://www.youtube.com/watch?v=w9yNsTAp-Mg
 
+https://www.youtube.com/watch?v=t_ispmWmdjY
+
 Make sure that `bin/ruby` has the proper permissions. For that, you can execute:
 
 ```bash
